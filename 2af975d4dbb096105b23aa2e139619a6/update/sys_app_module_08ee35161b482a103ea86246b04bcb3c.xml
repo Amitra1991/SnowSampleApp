@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Config data">80ee35161b482a103ea86246b04bcb38</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Config data</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_accu3_sampledemo_config_data</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>false</require_confirmation>
+        <roles>x_accu3_sampledemo.config_data_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>bhumesh.sridharan</sys_created_by>
+        <sys_created_on>2025-03-05 05:50:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>08ee35161b482a103ea86246b04bcb3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Config data</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SampleDemoApp" source="x_accu3_sampledemo">2af975d4dbb096105b23aa2e139619a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SampleDemoApp">2af975d4dbb096105b23aa2e139619a6</sys_scope>
+        <sys_update_name>sys_app_module_08ee35161b482a103ea86246b04bcb3c</sys_update_name>
+        <sys_updated_by>bhumesh.sridharan</sys_updated_by>
+        <sys_updated_on>2025-03-05 05:50:38</sys_updated_on>
+        <timeline_page/>
+        <title>Config data</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>true</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_accu3_sampledemo_sample_request</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message><![CDATA[<p>Sample requested created</p>]]></message>
+        <name>SampleBR</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+	gs.info('Hi from product');
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>bhumesh.sridharan</sys_created_by>
+        <sys_created_on>2024-09-18 12:09:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3d3ac210db3496105b23aa2e1396198d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SampleBR</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SampleDemoApp" source="x_accu3_sampledemo">2af975d4dbb096105b23aa2e139619a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SampleDemoApp">2af975d4dbb096105b23aa2e139619a6</sys_scope>
+        <sys_update_name>sys_script_3d3ac210db3496105b23aa2e1396198d</sys_update_name>
+        <sys_updated_by>bhumesh.sridharan</sys_updated_by>
+        <sys_updated_on>2024-10-07 07:00:05</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=3d3ac210db3496105b23aa2e1396198d"/>
+</record_update>

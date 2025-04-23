@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>bhumesh.sridharan</sys_created_by>
+        <sys_created_on>2024-10-04 12:38:49</sys_created_on>
+        <sys_id>95aa68611b01925020b77550cd4bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_accu3_sampledemo_demo_table.x_accu3_sampledemo.demo_table_user</sys_name>
+        <sys_package display_value="SampleDemoApp" source="x_accu3_sampledemo">2af975d4dbb096105b23aa2e139619a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SampleDemoApp">2af975d4dbb096105b23aa2e139619a6</sys_scope>
+        <sys_security_acl display_value="x_accu3_sampledemo_demo_table">99aa68611b01925020b77550cd4bcb74</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_95aa68611b01925020b77550cd4bcb7a</sys_update_name>
+        <sys_updated_by>bhumesh.sridharan</sys_updated_by>
+        <sys_updated_on>2024-10-04 12:38:49</sys_updated_on>
+        <sys_user_role display_value="x_accu3_sampledemo.demo_table_user" name="x_accu3_sampledemo.demo_table_user">05aa24611b01925020b77550cd4bcba7</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SampleDemoApp">2af975d4dbb096105b23aa2e139619a6</application>
+        <file_path/>
+        <instance_id>0e869b261b00f5d0699443f4bd4bcb98</instance_id>
+        <instance_name>ven06707</instance_name>
+        <name>sys_security_acl_role_95aa68611b01925020b77550cd4bcb7a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>bhumesh.sridharan</sys_created_by><sys_created_on>2024-10-04 12:38:49</sys_created_on><sys_id>95aa68611b01925020b77550cd4bcb7a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_accu3_sampledemo_demo_table.x_accu3_sampledemo.demo_table_user</sys_name><sys_package display_value="SampleDemoApp" source="x_accu3_sampledemo">2af975d4dbb096105b23aa2e139619a6</sys_package><sys_policy/><sys_scope display_value="SampleDemoApp">2af975d4dbb096105b23aa2e139619a6</sys_scope><sys_security_acl display_value="x_accu3_sampledemo_demo_table">99aa68611b01925020b77550cd4bcb74</sys_security_acl><sys_update_name>sys_security_acl_role_95aa68611b01925020b77550cd4bcb7a</sys_update_name><sys_updated_by>bhumesh.sridharan</sys_updated_by><sys_updated_on>2024-10-04 12:38:49</sys_updated_on><sys_user_role display_value="x_accu3_sampledemo.demo_table_user" name="x_accu3_sampledemo.demo_table_user">05aa24611b01925020b77550cd4bcba7</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1238550412</payload_hash>
+        <record_name>x_accu3_sampledemo_demo_table.x_accu3_sampledemo.demo_table_user</record_name>
+        <reverted_from/>
+        <source>aaf9715cdbb096105b23aa2e139619d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>bhumesh.sridharan</sys_created_by>
+        <sys_created_on>2024-10-04 12:38:49</sys_created_on>
+        <sys_id>1daa68611b01925020b77550cd4bcb7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192578a3b6a0000001</sys_recorded_at>
+        <sys_updated_by>bhumesh.sridharan</sys_updated_by>
+        <sys_updated_on>2024-10-04 12:38:49</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>11aa68617301925067ebd7f794eb077e</update_guid>
+        <update_guid_history>11aa68617301925067ebd7f794eb077e:-1238550412</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">b40ec08b1b08ea103ea86246b04bcb25</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bhumesh.sridharan</sys_created_by>
+        <sys_created_on>2025-03-07 05:32:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>11694c401aa8464c8672d883c9e015e4</sys_id>
+        <sys_metadata>95aa68611b01925020b77550cd4bcb7a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_accu3_sampledemo_demo_table.x_accu3_sampledemo.demo_table_user</sys_name>
+        <sys_package display_value="SampleDemoApp" source="x_accu3_sampledemo">2af975d4dbb096105b23aa2e139619a6</sys_package>
+        <sys_parent display_value="">99aa68611b01925020b77550cd4bcb74</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SampleDemoApp">2af975d4dbb096105b23aa2e139619a6</sys_scope>
+        <sys_scope_delete display_value="">1dbecf628e88425c8ecb4a7c85f40601</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_95aa68611b01925020b77550cd4bcb7a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_95aa68611b01925020b77550cd4bcb7a">1daa68611b01925020b77550cd4bcb7e</sys_update_version>
+        <sys_updated_by>bhumesh.sridharan</sys_updated_by>
+        <sys_updated_on>2025-03-07 05:32:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

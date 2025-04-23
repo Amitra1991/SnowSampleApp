@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_accu3_sampledemo_demo_table</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_accu3_sampledemo_demo_table</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>bhumesh.sridharan</sys_created_by>
+        <sys_created_on>2024-10-04 12:38:49</sys_created_on>
+        <sys_id>15aa68611b01925020b77550cd4bcb7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_accu3_sampledemo_demo_table</sys_name>
+        <sys_package display_value="SampleDemoApp" source="x_accu3_sampledemo">2af975d4dbb096105b23aa2e139619a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SampleDemoApp">2af975d4dbb096105b23aa2e139619a6</sys_scope>
+        <sys_update_name>sys_security_acl_15aa68611b01925020b77550cd4bcb7f</sys_update_name>
+        <sys_updated_by>bhumesh.sridharan</sys_updated_by>
+        <sys_updated_on>2024-10-04 12:38:49</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SampleDemoApp">2af975d4dbb096105b23aa2e139619a6</application>
+        <file_path/>
+        <instance_id>0e869b261b00f5d0699443f4bd4bcb98</instance_id>
+        <instance_name>ven06707</instance_name>
+        <name>sys_security_acl_15aa68611b01925020b77550cd4bcb7f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_accu3_sampledemo_demo_table</description><local_or_existing>Local</local_or_existing><name>x_accu3_sampledemo_demo_table</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>bhumesh.sridharan</sys_created_by><sys_created_on>2024-10-04 12:38:49</sys_created_on><sys_id>15aa68611b01925020b77550cd4bcb7f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_accu3_sampledemo_demo_table</sys_name><sys_package display_value="SampleDemoApp" source="x_accu3_sampledemo">2af975d4dbb096105b23aa2e139619a6</sys_package><sys_policy/><sys_scope display_value="SampleDemoApp">2af975d4dbb096105b23aa2e139619a6</sys_scope><sys_update_name>sys_security_acl_15aa68611b01925020b77550cd4bcb7f</sys_update_name><sys_updated_by>bhumesh.sridharan</sys_updated_by><sys_updated_on>2024-10-04 12:38:49</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-2020967220</payload_hash>
+        <record_name>x_accu3_sampledemo_demo_table</record_name>
+        <reverted_from/>
+        <source>aaf9715cdbb096105b23aa2e139619d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>bhumesh.sridharan</sys_created_by>
+        <sys_created_on>2024-10-04 12:38:50</sys_created_on>
+        <sys_id>19aa68611b01925020b77550cd4bcb84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192578a3bc50000001</sys_recorded_at>
+        <sys_updated_by>bhumesh.sridharan</sys_updated_by>
+        <sys_updated_on>2024-10-04 12:38:50</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>1daa686163019250cc9085edb9fa0383</update_guid>
+        <update_guid_history>1daa686163019250cc9085edb9fa0383:-2020967220</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bhumesh.sridharan</sys_created_by>
+        <sys_created_on>2025-03-07 05:32:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>00b799d6b7da48258077f63de3c78dc1</sys_id>
+        <sys_metadata>15aa68611b01925020b77550cd4bcb7f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_accu3_sampledemo_demo_table</sys_name>
+        <sys_package display_value="SampleDemoApp" source="x_accu3_sampledemo">2af975d4dbb096105b23aa2e139619a6</sys_package>
+        <sys_parent display_value="">1daa68611b01925020b77550cd4bcb89</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SampleDemoApp">2af975d4dbb096105b23aa2e139619a6</sys_scope>
+        <sys_scope_delete display_value="">1dbecf628e88425c8ecb4a7c85f40601</sys_scope_delete>
+        <sys_update_name>sys_security_acl_15aa68611b01925020b77550cd4bcb7f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_15aa68611b01925020b77550cd4bcb7f">19aa68611b01925020b77550cd4bcb84</sys_update_version>
+        <sys_updated_by>bhumesh.sridharan</sys_updated_by>
+        <sys_updated_on>2025-03-07 05:32:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

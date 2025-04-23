@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a8aabd5cdbb096105b23aa2e139619c0" label="Sample Request" max_length="40" name="x_accu3_sampledemo_sample_request" type="collection">
+        <element label="Sample Name" max_length="40" name="sample_name" type="string"/>
+    </element>
+</database>
